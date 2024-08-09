@@ -1,0 +1,2 @@
+# vmg
+Validation Message Generator
