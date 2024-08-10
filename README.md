@@ -52,7 +52,7 @@ ___
 The operating system, browser name, and browser version are automatically detected.   
   
 Supported browsers include Chrome, Firefox, and Safari.  
-Supported operating systems are macOS, Windows, and Linux.
+Supported operating systems are macOS, Windows 7/8/8.1/10, and Linux.
 ___
 
 ### Testing Tools
