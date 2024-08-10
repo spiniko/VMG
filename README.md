@@ -41,7 +41,7 @@ Environment: Windows 10 | Chrome v127.0.0.0
 Testing Tools: Chrome Browser Dev tools, NVDA screen reader, Keyboard, Accessible Color Picker, Headings Map Extension
 Final Status: Not fixed
 Screenshot (attached): ABC-AMP1_08082024_Not_Fixed_Validation.png
-Notes: The issue initially reported is fixed.
+Notes: The issue initially reported is not fixed.
 Recommendation: We recommend following the original guidance.
 ```
 
