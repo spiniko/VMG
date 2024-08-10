@@ -40,7 +40,7 @@ Validation Test Location: https://www.example.com/
 Environment: Windows 10 | Chrome v127.0.0.0
 Testing Tools: Chrome Browser Dev tools, NVDA screen reader, Keyboard, Accessible Color Picker, Headings Map Extension
 Final Status: Not fixed
-Screenshot (attached): ABC-AMP1_08082024_Fixed_Validation.png
+Screenshot (attached): ABC-AMP1_08082024_Not_Fixed_Validation.png
 Notes: The issue initially reported is fixed.
 Recommendation: We recommend following the original guidance.
 ```
